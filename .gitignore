@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.h5
+*.db
+
+# Model files
+*.joblib
+*.pkl
+*.h5
+*.sav
+
+# VSCode and PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Environment and dependency files (optional to exclude)
+Pipfile.lock
+poetry.lock
