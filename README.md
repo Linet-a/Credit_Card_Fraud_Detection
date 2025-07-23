@@ -1,6 +1,6 @@
 # Fraud Detection with XGBoost
 
-![Creditcard Fraud](https://stowellcrayk.com/wp-content/uploads/2024/01/credit-card-fraud.webp)
+![Creditcard Fraud](https://media.licdn.com/dms/image/v2/C4E12AQGxNm7Bk_0iDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1630834609337?e=2147483647&v=beta&t=WSNr1rRZc4JV77escMP0MykuZibYY9BUCZkIzgO3WZA)
 
 Credit card fraud is a significant and growing concern in the financial industry, leading to substantial financial losses and reduced customer trust. Fraudulent transactions are typically rare, making up a small fraction of all transactions, which creates a highly imbalanced classification problem.
 
