@@ -1,4 +1,4 @@
-## Fraud Detection with XGBoost
+# Fraud Detection with XGBoost
 
 Credit card fraud is a significant and growing concern in the financial industry, leading to substantial financial losses and reduced customer trust. Fraudulent transactions are typically rare, making up a small fraction of all transactions, which creates a highly imbalanced classification problem.
 
@@ -54,7 +54,7 @@ Outlier behavior: Fraudulent transactions often show distinct patterns in specif
 
 📁 Data
 
-If you want to use the original dataset:
+If you want to use the original dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Download from Kaggle Credit Card Fraud Dataset
 
