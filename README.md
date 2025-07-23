@@ -1,6 +1,6 @@
 # Fraud Detection with XGBoost
 
-![Creditcard Fraud](https://www.abclegal.com/hs-fs/hubfs/iStock-495421971%20(1).jpg?width=600&name=iStock-495421971%20(1).jpg)
+![Creditcard Fraud](https://stowellcrayk.com/wp-content/uploads/2024/01/credit-card-fraud.webp)
 
 Credit card fraud is a significant and growing concern in the financial industry, leading to substantial financial losses and reduced customer trust. Fraudulent transactions are typically rare, making up a small fraction of all transactions, which creates a highly imbalanced classification problem.
 
