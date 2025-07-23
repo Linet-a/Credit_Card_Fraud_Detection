@@ -3,7 +3,6 @@
 This project applies machine learning to detect fraudulent transactions. 
 
 
-```
 ## ⚙️ Features
 
 - Manual resampling to balance training and validation sets.
@@ -11,24 +10,13 @@ This project applies machine learning to detect fraudulent transactions.
 - ROC AUC curve and confusion matrix plotted for evaluation.
 - Synthetic test data used to simulate model generalization.
 
-## 📊 Results
-
-| Metric         | Value (Class 1 - Fraud) |
-|----------------|--------------------------|
-| Precision      | Low                      |
-| Recall         | Low                      |
-| Accuracy       | High (due to imbalance)  |
-| ROC AUC        | Plotted below (see notebook) |
 
 ## 🛠 Setup
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/fraud-detection-xgboost.git
+
+   git clone https://github.com/Linet-a/Credit_Card_Fraud_Detection.git
    cd fraud-detection-xgboost
-````
-
-
 
 
 📁 Data
