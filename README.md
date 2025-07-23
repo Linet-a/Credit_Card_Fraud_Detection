@@ -1,5 +1,7 @@
 # Fraud Detection with XGBoost
 
+![Creditcard Fraud](https://www.abclegal.com/hs-fs/hubfs/iStock-495421971%20(1).jpg?width=600&name=iStock-495421971%20(1).jpg)
+
 Credit card fraud is a significant and growing concern in the financial industry, leading to substantial financial losses and reduced customer trust. Fraudulent transactions are typically rare, making up a small fraction of all transactions, which creates a highly imbalanced classification problem.
 
 The challenge lies in building a machine learning model that can accurately distinguish between fraudulent and non-fraudulent transactions using historical transaction data. The model must maximize detection of fraud (recall) while minimizing false positives, which can negatively affect customer experience and operational costs.
